@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/flappy-voice/static/css/main.75de3ee2.chunk.css",
+    "main.js": "/flappy-voice/static/js/main.4617b13b.chunk.js",
+    "main.js.map": "/flappy-voice/static/js/main.4617b13b.chunk.js.map",
+    "runtime-main.js": "/flappy-voice/static/js/runtime-main.0fadff9b.js",
+    "runtime-main.js.map": "/flappy-voice/static/js/runtime-main.0fadff9b.js.map",
+    "static/js/2.34a5a3b7.chunk.js": "/flappy-voice/static/js/2.34a5a3b7.chunk.js",
+    "static/js/2.34a5a3b7.chunk.js.map": "/flappy-voice/static/js/2.34a5a3b7.chunk.js.map",
+    "index.html": "/flappy-voice/index.html",
+    "precache-manifest.01ee8709c1c971bdb3ea1dbd0ef98e33.js": "/flappy-voice/precache-manifest.01ee8709c1c971bdb3ea1dbd0ef98e33.js",
+    "service-worker.js": "/flappy-voice/service-worker.js",
+    "static/css/main.75de3ee2.chunk.css.map": "/flappy-voice/static/css/main.75de3ee2.chunk.css.map",
+    "static/js/2.34a5a3b7.chunk.js.LICENSE.txt": "/flappy-voice/static/js/2.34a5a3b7.chunk.js.LICENSE.txt",
+    "static/media/bird1.png": "/flappy-voice/static/media/bird1.1f3aa776.png",
+    "static/media/bird2.png": "/flappy-voice/static/media/bird2.7b191a8d.png",
+    "static/media/bird3.png": "/flappy-voice/static/media/bird3.f0723ad5.png",
+    "static/media/flappybirdBackground.jpg": "/flappy-voice/static/media/flappybirdBackground.2acd3c5c.jpg",
+    "static/media/flappybird_SkyBuilding.jpg": "/flappy-voice/static/media/flappybird_SkyBuilding.ac67fe34.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fadff9b.js",
+    "static/js/2.34a5a3b7.chunk.js",
+    "static/css/main.75de3ee2.chunk.css",
+    "static/js/main.4617b13b.chunk.js"
+  ]
+}
